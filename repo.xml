@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>GitHub API XQuery Library</description>
+    <author>Winona Salesky</author>
+    <website></website>
+    <status>stable</status>
+    <license>GPLv3</license>
+    <copyright>true</copyright>
+    <type>library</type>
+    <target/>
+    <note></note>
+</meta>

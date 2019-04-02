@@ -7,6 +7,12 @@ This library currently supports the following interactions with GitHub:
 * Submit a pull request
 * Respond to GitHub webhooks 
 
+This code was written by Winona Salesky as part of the Srophé App, a digital humanities application 
+developed by Syriaca.org: The Syriac Reference Portal [http://syriaca.org/] and LOGAR: Linked Open Gazetteer of the 
+Andean Region [http://logarandes.org/] at Vanderbilt University. Funding was provided by The National Endowment for the Humanities, 
+La Fondazione Internazionale Premio Balzan, the Trans-Institutional Digital Cultural Heritage Cluster at Vanderbilt University, 
+and the Center of Digital Humanities Research at Texas A&M University. 
+ 
 ## Requirements
 * eXist-db 3.x.x or higher
 * EXPath Cryptographic Module Implementation [http://expath.org/ns/crypto]

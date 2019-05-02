@@ -21,6 +21,9 @@ and the Center of Digital Humanities Research at Texas A&M University.
 ## Installation
 The package can be installed via the eXist-db package manager. 
 
+Import module: 
+```import module namespace githubxq="http://exist-db.org/lib/githubxq";```
+
 ## Available Functions
 
 ### branch 

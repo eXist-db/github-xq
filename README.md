@@ -162,7 +162,7 @@ return
 
 Note: The XQuery responding to GitHub must be run with elevated privileges in order to save and edit the files in your application. 
 
-Example: ` sm:chmod(xs:anyURI(xs:anyURI('YOUR-ENDPOINT.xql'), "rwsr-xr-x")) `
+Example: ` sm:chmod(xs:anyURI('YOUR-ENDPOINT.xql'), "rwsr-xr-x") `
 
 ### Set up GitHub webhooks
 Read about webhooks here: [https://developer.github.com/webhooks/]
